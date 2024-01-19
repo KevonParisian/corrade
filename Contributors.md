@@ -1,8 +1,8 @@
-# Welcome Contributors 🙏
+**Welcome Contributors 🙏
 
 ---
 
-# A
+  A
 
 - [Anushka Paul](https://github.com/pilipi-puu-puu)
 - [Abigail Afi Gbadago](https://github.com/AfiMaameDufie)
@@ -301,3 +301,4 @@
 - [Zen](https://github.com/mzaini30)
 - [Zubair-12](https://github.com/Zubair-12)
 - [Zachary Moseti](https://github.com/ZachyDev)
+ 
